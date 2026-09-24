@@ -6,7 +6,7 @@ sharing, identifying nested IBD-sharing communities with Louvain and Leiden,
 and consolidating genetically similar terminal communities by iterative
 genotype-based Hudson \(F_{ST}\) clumping. The pipeline also summarizes
 within- and between-cluster IBD sharing and produces annotated heatmaps of
-final-cluster IBD sharing and Hudson \(F_{ST}\).
+final-cluster IBD sharing and Hudson FST.
 
 The pipeline is configured for SLURM and was developed for the Digital Research
 Alliance of Canada Narval cluster.
