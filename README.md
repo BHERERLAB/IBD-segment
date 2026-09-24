@@ -4,7 +4,7 @@ A Nextflow pipeline for detecting identity-by-descent (IBD) segments with
 [Hap-IBD](https://github.com/browning-lab/hap-ibd), summarizing genome-wide IBD
 sharing, identifying nested IBD-sharing communities with Louvain and Leiden,
 and consolidating genetically similar terminal communities by iterative
-genotype-based Hudson \(F_{ST}\) clumping. The pipeline also summarizes
+genotype-based Hudson FST clumping. The pipeline also summarizes
 within- and between-cluster IBD sharing and produces annotated heatmaps of
 final-cluster IBD sharing and Hudson FST.
 
